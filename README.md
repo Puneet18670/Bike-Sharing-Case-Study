@@ -38,10 +38,3 @@ Created by [Puneet18607-git]
 
 **License**
 This project is open source and available without restrictions.
-
-
-
-
-
-
-
